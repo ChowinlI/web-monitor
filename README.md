@@ -77,5 +77,5 @@ monitor.report()
 ```
 
 ### 相关参考及文章
-1. [js前端页面探针](https://github.com/a597873885/webfunny_monitor)
+1. [JS前端页面探针](https://github.com/a597873885/webfunny_monitor)
 2. [JS错误总结](https://segmentfault.com/a/1190000014672384)
